@@ -1,0 +1,9 @@
+{
+    "name": "elgg/csv_user_import",
+    "description": "Bulk import of users from a comma-separated file. Adds a menu item to Administer -> Users.",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    },
+    "license": "GPL-2.0",
+}
